@@ -1,0 +1,3 @@
+C:/Users/marcg/Desktop/UBB/DSA/L4_Set/cmake-build-debug/CMakeFiles/L4_Set.dir
+C:/Users/marcg/Desktop/UBB/DSA/L4_Set/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/marcg/Desktop/UBB/DSA/L4_Set/cmake-build-debug/CMakeFiles/rebuild_cache.dir
